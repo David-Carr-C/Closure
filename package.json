@@ -1,0 +1,11 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "Proyecto para conocer e integrar Scope y Closures",
+  "main": "index.js",
+  "scripts": {
+    "scope": "node src/scope/global.js"
+  },
+  "author": "David Carrillo",
+  "license": "MIT"
+}
