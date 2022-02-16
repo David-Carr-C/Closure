@@ -4,7 +4,12 @@
   "description": "Proyecto para conocer e integrar Scope y Closures",
   "main": "index.js",
   "scripts": {
-    "scope": "node src/scope/global.js"
+    "scope:global": "node src/scope/global.js",
+    "scope:local": "node src/scope/local.js",
+    "scope:func": "node src/scope/function.js",
+    "scope:block": "node src/scope/block.js",
+    "closure:closure": "node src/closure/closure.js",
+    "closure:lexical": "node src/closure/lexical.js"
   },
   "author": "David Carrillo",
   "license": "MIT"
